@@ -1,4 +1,5 @@
 @import
   "base",
+  "layout",
   "skins/{{ site.minima.skin | default: 'classic' }}",
   "initialize";
