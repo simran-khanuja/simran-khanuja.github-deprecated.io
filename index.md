@@ -5,8 +5,10 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: default
+layout: page
 ---
+
+{% include JB/setup %}
 
 <img style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5" src=" {{ site.url }}/assets/dp.jpeg">
 
