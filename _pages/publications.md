@@ -7,7 +7,7 @@ permalink: /publications/
 [GLUECoS: An Evaluation Benchmark for Code-Switched NLP](https://arxiv.org/pdf/2004.12376.pdf)  
 *Simran Khanuja*, Sandipan Dandapat, Anirudh Srinivasan, Sunayana Sitaram, Monojit Choudhury  
 **ACL 2020**  
-[Code](https://github.com/microsoft/GLUECoS) | [Website] (https://microsoft.github.io/GLUECoS/)
+[Code](https://github.com/microsoft/GLUECoS) | [Website](https://microsoft.github.io/GLUECoS/)
 
 [A New Dataset for Natural Language Inference from Code-mixed Conversations](https://arxiv.org/pdf/2004.05051.pdf)  
 *Simran Khanuja*, Sandipan Dandapat, Sunayana Sitaram, Monojit Choudhury  
@@ -19,6 +19,7 @@ Pratik Joshi, Christain Barnes, Sebastin Santy, *Simran Khanuja*, Sanket Shah, A
 **ICON 2019**  
 
 [Dependency Parser for Bengali-English Code-Mixed Data enhanced with a Synthetic Treebank](https://www.aclweb.org/anthology/W19-7810.pdf)  
-*Kalpesh Krishna*, Mohit Iyyer  
+Urmi Ghosh Dipti Misra Sharma *Simran Khanuja* 
 **TLT, SyntaxFest 2019** 
 [Code](https://github.com/simran-khanuja/IIITH-Summer2018/tree/master/Code-Mixed%20Data/Code-Mixing)
+
