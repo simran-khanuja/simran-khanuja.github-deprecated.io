@@ -19,7 +19,7 @@ Pratik Joshi, Christain Barnes, Sebastin Santy, *Simran Khanuja*, Sanket Shah, A
 **ICON 2019**  
 
 [Dependency Parser for Bengali-English Code-Mixed Data enhanced with a Synthetic Treebank](https://www.aclweb.org/anthology/W19-7810.pdf)  
-Urmi Ghosh Dipti Misra Sharma *Simran Khanuja* 
+Urmi Ghosh, Dipti Misra Sharma, *Simran Khanuja* 
 **TLT, SyntaxFest 2019** 
 [Code](https://github.com/simran-khanuja/IIITH-Summer2018/tree/master/Code-Mixed%20Data/Code-Mixing)
 
