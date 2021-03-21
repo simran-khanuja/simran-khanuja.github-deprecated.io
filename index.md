@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5" src=" {{ site.url }}/assets/dp.jpg">
+<img style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5" src=" {{ site.url }}/assets/dp.jpeg">
 
 Hi! I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), mentored by [Dr. Partha Talukdar](http://talukdar.net/). My current research interests lie in (but aren’t limited to) multilingual NLP, with a focus on low resource languages and code-mixed language processing. My research experiences have given me a unique opportunity to contribute towards developing technology for the [linguistically rich](https://youtu.be/MpPJ4Rr-5SQ) and diverse set of Indian languages, for which I am ever grateful. I have also briefly dabbled with multimodal processing and am excited to explore it in the future. 
 
