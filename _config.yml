@@ -18,7 +18,7 @@ full_name: Simran Khanuja
 email: khanuja.simran7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://simran-khanuja@github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://simran-khanuja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: simran-khanuja
 twitter_username: simi_97k
 linkedin_username: simran-khanuja-6b80b6144
