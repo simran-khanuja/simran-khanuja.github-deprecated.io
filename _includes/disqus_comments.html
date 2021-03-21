@@ -1,20 +1,56 @@
-{% if page.comments != false and jekyll.environment == "production" %}
+<footer class="site-footer">
 
-  <div id="disqus_thread"></div>
-  <script>
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
-    };
+  <div class="wrapper">
 
-    (function() {
-      var d = document, s = d.createElement('script');
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
-      s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              {{ site.title | escape }}
+            {% endif %}
+            </li>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+            {% if site.email2 %}
+            <li><a href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li>
+            {% endif %}
+        </ul>
+      </div>
 
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-{% endif %}
+      <div class="footer-col footer-col-4">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username full_name=site.full_name %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-1">
+        <!-- <p>{{ site.description1 | escape }}</p> -->
+        <p>{{ site.description1 | escape }}<br>{{ site.description2 | escape }}<br>{{ site.description3 | escape }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
