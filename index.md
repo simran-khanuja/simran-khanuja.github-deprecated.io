@@ -20,12 +20,14 @@ I graduated with a B.Tech (Hons.) in Computer Science and a MSc. (Hons.) in Econ
  
 For more information, you can check out my CV [here]({{ site.url }}/assets/cv.pdf) or reach out to me on my [email](mailto:khanuja.simran7@gmail.com) :)
 
-#### Updates
+## **Updates**
 
 <div style="height:250px;overflow:auto;">
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Mar 2021:</b></td><td>Technical write-up on MuRIL is now on <a href="https://arxiv.org/pdf/2103.10730.pdf">arxiv</a>.</td></tr>
+<tr><td><b>Mar 2021:</b></td><td>The pre-trained MuRIL model (with MLM) is now available on <a href="https://huggingface.co/google/muril-base-cased">HuggingFace</a>.</td></tr>
 <tr><td><b>Nov 2020:</b></td><td><a href="https://tfhub.dev/google/MuRIL/1">Open-sourced</a> a multilingual model for Indian languages named MuRIL on TFHub!</td></tr>
 <tr><td><b>Sep 2020:</b></td><td>Hosted a Fireside Chat with Jeff Dean on his virtual Google India visit!</td></tr>
 <tr><td><b>Aug 2020:</b></td><td>I am joining the <a href="https://research.google/locations/india/">Google Research India</a> lab as a Pre-Doctoral Researcher where I am working with <a href="http://talukdar.net/">Dr. Partha Talukdar!</a></td></tr>
