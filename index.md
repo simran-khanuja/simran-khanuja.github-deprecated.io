@@ -20,7 +20,7 @@ I graduated with a B.Tech (Hons.) in Computer Science and a MSc. (Hons.) in Econ
  
 For more information, you can check out my CV [here]({{ site.url }}/assets/cv.pdf) or reach out to me on my [email](mailto:khanuja.simran7@gmail.com) :)
 
-## **Updates**
+### **Updates**
 
 <div style="height:250px;overflow:auto;">
 <table>
