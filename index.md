@@ -8,7 +8,7 @@
 layout: default
 ---
 
-<img style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 250px;border: 5" src=" {{ site.url }}/assets/dp.jpeg">
+<img style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 270px;border: 5" src=" {{ site.url }}/assets/dp.jpeg">
 
 Hi! I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), mentored by [Dr. Partha Talukdar](http://talukdar.net/). My current research interests lie in (but aren’t limited to) multilingual NLP, with a focus on low resource languages and code-mixed language processing. 
 
