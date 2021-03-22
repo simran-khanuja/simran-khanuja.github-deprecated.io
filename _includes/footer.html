@@ -5,7 +5,7 @@
     <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-4">
+      <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
             {% if site.author %}
@@ -23,6 +23,11 @@
         </ul>
       </div>
 
+      <div class="footer-col footer-col-1">
+        <p>{{ site.description1 | escape }}</p>
+        <p>{{ site.description1 | escape }}<br>{{ site.description2 | escape }}<br>{{ site.description3 | escape }}</p>
+      </div>
+      
       <div class="footer-col footer-col-4">
         <ul class="social-media-list">
           {% if site.github_username %}
@@ -45,10 +50,6 @@
         </ul>
       </div>
 
-      <!-- <div class="footer-col footer-col-1">
-        <p>{{ site.description1 | escape }}</p>
-        <p>{{ site.description1 | escape }}<br>{{ site.description2 | escape }}<br>{{ site.description3 | escape }}</p>
-      </div> -->
     </div>
 
   </div>
