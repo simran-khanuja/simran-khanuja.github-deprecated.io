@@ -10,13 +10,15 @@ layout: default
 
 <img style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5" src=" {{ site.url }}/assets/dp.jpeg">
 
-Hi! I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), mentored by [Dr. Partha Talukdar](http://talukdar.net/). My current research interests lie in (but aren’t limited to) multilingual NLP, with a focus on low resource languages and code-mixed language processing. My research experiences have given me a unique opportunity to contribute towards developing technology for the [linguistically rich](https://youtu.be/MpPJ4Rr-5SQ) and diverse set of Indian languages, for which I am ever grateful. I have also briefly dabbled with multimodal processing and am excited to explore it in the future. 
+Hi! I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), mentored by [Dr. Partha Talukdar](http://talukdar.net/). My current research interests lie in (but aren’t limited to) multilingual NLP, with a focus on low resource languages and code-mixed language processing. 
+
+My research experiences have given me a unique opportunity to contribute towards developing technologies for the [linguistically rich](https://youtu.be/MpPJ4Rr-5SQ) and diverse set of Indian languages, for which I am ever grateful. I have come to realise the importance of working on research problems that are applicable in the real world and strive to have this flavor in my research. I have also briefly dabbled with multimodal processing and am excited to explore it in the future! 
 
 In the past, I have had the good fortune to complete my bachelor thesis at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) where I was advised by [Dr. Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) and [Dr. Monojit Choudhury](https://www.microsoft.com/en-us/research/people/monojitc/). I have also spent some wonderful summers interning at the [MT-NLP Lab](https://ltrc.iiit.ac.in/), IIIT Hyderabad and Liveweaver, Pune.
 
 I graduated with a B.Tech (Hons.) in Computer Science and a MSc. (Hons.) in Economics from [BITS Pilani](https://www.bits-pilani.ac.in/), Goa, India in 2020. Apart from spending my time doing fun research, I hold a keen interest in music, a passion I got to pursue as part of the [Music Society](https://www.youtube.com/channel/UCs3URAnJc629Is22Q6tPK4g) at BITS, where I gave performances as a vocalist.
-Check out my CV [here]({{ site.url }}/assets/cv.pdf).  
-Feel free to reach out to me on my [email](mailto:khanuja.simran7@gmail.com) to get in touch :)
+ 
+For more information, you can check out my CV [here]({{ site.url }}/assets/cv.pdf) or reach out to me on my [email](mailto:khanuja.simran7@gmail.com) :)
 
 #### Updates
 
