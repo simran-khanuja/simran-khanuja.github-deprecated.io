@@ -10,7 +10,7 @@ layout: default
 
 <img style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5" src=" {{ site.url }}/assets/dp.jpeg">
 
-Hi! I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), mentored by [Dr. Partha Talukdar](http://talukdar.net/). I currently research multilinguality for low-resource languages and am foraying into leveraging multimodal signals for the same. I apply my research to improve neural semantic parsers for Indian languages in Google Assistant.
+Hi! I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), mentored by [Dr. Partha Talukdar](http://talukdar.net/). I currently research multilinguality for low-resource languages and am foraying into leveraging multimodal signals for the same. I apply my research to improve neural semantic parsing for Indian languages for the Google Assistant.
 
 My research experiences have given me a unique opportunity to contribute towards developing technologies for the [linguistically rich](https://youtu.be/MpPJ4Rr-5SQ) and diverse set of Indian languages, for which I am ever grateful. I have come to realise the importance of working on research problems that are applicable in the real world and strive to have this flavor in my research. I wish to draw inspiration from cognitive and behavioural sciences to build technologies that make human-computer interaction more seamless and natural. 
 
