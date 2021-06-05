@@ -26,7 +26,7 @@ For more information, you can check out my CV [here]({{ site.url }}/assets/cv.pd
 <table>
 <col width="100px">
 <col width="650px">
-<tr><td><b>May 2021:</b></td><td>New ACL 2021 Findings paper on merging multiple pre-trained LMs using knowledge distillation.</td></tr>
+<tr><td><b>May 2021:</b></td><td>Our work on merging multiple pre-trained LMs using distillation to appear in ACL 2021 FIndings.</td></tr>
 <tr><td><b>Mar 2021:</b></td><td>Technical write-up on MuRIL is now available on <a href="https://arxiv.org/pdf/2103.10730.pdf">arxiv</a>.</td></tr>
 <tr><td><b>Mar 2021:</b></td><td>The pre-trained MuRIL model (with MLM) is now available on <a href="https://huggingface.co/google/muril-base-cased">HuggingFace</a>.</td></tr>
 <tr><td><b>Nov 2020:</b></td><td><a href="https://tfhub.dev/google/MuRIL/1">Open-sourced</a> a multilingual model for Indian languages named MuRIL on TFHub!</td></tr>
