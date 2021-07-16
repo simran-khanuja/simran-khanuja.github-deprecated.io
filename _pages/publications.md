@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+[MergeDistill : Merging Pre-trained Language Models using Distillation](https://arxiv.org/abs/2106.02834)  
+**Simran Khanuja**, Melvin Johnson, Partha Talukdar
+*ACL 2021 Findings*  
+
 [MuRIL : Multilingual Representations for Indian Languages](https://arxiv.org/pdf/2103.10730.pdf)  
 **Simran Khanuja**, Diksha Bansal, Sarvesh Mehtani, Savya Khosla, Atreyee Dey, Balaji Gopalan, Dilip Kumar Margam, Pooja Aggarwal, Rajiv Teja Nagipogu, Shachi Dave, Shruti Gupta, Subhash Chandra Bose Gali, Vish Subramanian, Partha Talukdar     
 [HuggingFace](https://huggingface.co/google/muril-base-cased) | [TFHub](https://tfhub.dev/google/MuRIL/1)
