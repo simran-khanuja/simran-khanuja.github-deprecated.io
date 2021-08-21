@@ -26,6 +26,8 @@ For more information, you can check out my CV [here]({{ site.url }}/assets/cv.pd
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Aug 2021:</b></td><td>Conducting a hands-on TensorFlow Tutorial session at the <a href="http://cvit.iiit.ac.in/summerschool2021/program.php">5th CVIT IIIT Summer School!</a></td></tr>
+<tr><td><b>Aug 2021:</b></td><td>Hosting the NLP networking session at IKDD 2021 where <a href="https://www.microsoft.com/en-us/research/people/monojitc/">Dr. Monojit Choudhury</a> is our guest speaker!</td></tr>
 <tr><td><b>May 2021:</b></td><td>Our work on merging multiple pre-trained LMs to appear in ACL 2021 Findings.</td></tr>
 <tr><td><b>Mar 2021:</b></td><td>Technical write-up on MuRIL is now available on <a href="https://arxiv.org/pdf/2103.10730.pdf">arxiv</a>.</td></tr>
 <tr><td><b>Mar 2021:</b></td><td>The pre-trained MuRIL model (with MLM) is now available on <a href="https://huggingface.co/google/muril-base-cased">HuggingFace</a>.</td></tr>
